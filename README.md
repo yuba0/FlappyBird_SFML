@@ -1,4 +1,4 @@
-# FlappyBird-SFML
+# FlappyBird-SFML.
 
 Jeu de Flappy Bird avec interface graphique en C++ utilisant SFML
 
