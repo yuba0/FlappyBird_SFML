@@ -20,6 +20,12 @@ Ce projet est une réplique du jeu Flappy Bird, développée en C++ avec la bibl
 - **Bibliothèque** : SFML (Simple and Fast Multimedia Library) pour l’interface graphique, la gestion des événements et le rendu.
 - **Make** : Outil pour gérer la compilation du projet.
 
+## Exemples de Captures d'Écran
+
+![Screenshot 1](assets/screenshots/screenshot1.png)
+![Screenshot 2](assets/screenshots/screenshot2.png)
+
+
 ## Installation
 
 ### Prérequis
