@@ -1,0 +1,8 @@
+# Exclure les fichiers compilés et dossiers de build
+build/
+bin/
+*.o
+
+# Exclure les fichiers de log ou temporaires
+*.log
+*.tmp
